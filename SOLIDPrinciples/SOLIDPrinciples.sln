@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationWrong",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependancyInversionWrong", "DependancyInversionWrong\DependancyInversionWrong.csproj", "{B1D7C4EA-A49C-4443-A25E-C6C571FB29A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependancyInversionOK", "DependancyInversionOK\DependancyInversionOK.csproj", "{9FF3DA85-05F6-423D-846B-E6492417FBE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B1D7C4EA-A49C-4443-A25E-C6C571FB29A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1D7C4EA-A49C-4443-A25E-C6C571FB29A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1D7C4EA-A49C-4443-A25E-C6C571FB29A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF3DA85-05F6-423D-846B-E6492417FBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF3DA85-05F6-423D-846B-E6492417FBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF3DA85-05F6-423D-846B-E6492417FBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF3DA85-05F6-423D-846B-E6492417FBE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
